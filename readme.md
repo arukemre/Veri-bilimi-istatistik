@@ -3,7 +3,7 @@
 ![_04ef1b19-f6da-4fdf-8112-e7ab557dc977](https://github.com/arukemre/Veri-bilimi-istatistik/assets/64266044/061a6df1-1ce1-42a0-8b1f-31a08bbe5220)
 
 
-Bu repository, veri bilimi ve istatistik konularında temel bilgileri edinmek, öğrenmek ve uygulamak isteyenler için bir kaynaktır. İstatistik ve istatistik yöntemleri, olasılık dağılımları, hipotez testleri, korelasyon analizi, ve daha birçok konuyu içermektedir.
+Bu repository, veri bilimi ve istatistik konularında temel bilgileri edinmek, öğrenmek ve uygulamak isteyenler için bir kaynaktır. İstatistik ve istatistik yöntemleri, olasılık dağılımları, hipotez testleri, korelasyon analizi  konularını içermektedir.
 
 ### İstatistik ve İstatistik Yöntemleri
 
